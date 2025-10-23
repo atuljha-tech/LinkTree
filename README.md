@@ -36,10 +36,10 @@ LinkTree is a modern, beautiful **link-in-bio platform** that allows creators, e
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/linktree.git
+git clone https://github.com/yourusername/LinkTree.git
 
 # 2. Navigate to project directory
-cd linktree
+cd LinkTree
 
 # 3. Install dependencies
 npm install
