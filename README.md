@@ -5,6 +5,8 @@
 ![LinkTree Banner](assets/ss1.png)
 ![LinkTree Banner](assets/ss2.png)
 
+</div>
+
 ## ✨ Overview
 
 LinkTree is a modern, beautiful **link-in-bio platform** that allows creators, entrepreneurs, and professionals to share all their important links through a single, customizable hub. Create your personalized LinkTree and connect your audience with everything that matters in one place.
@@ -15,34 +17,32 @@ LinkTree is a modern, beautiful **link-in-bio platform** that allows creators, e
 
 ## 🎯 Features
 
-### ⚡ **Lightning Fast**
-- Create your link hub in **seconds**
-- Intuitive drag-and-drop interface
-- No technical skills required
-
-### 🎨 **Beautiful Design**
-- **Professionally designed** templates
-- **Mobile-optimized** for all devices
-- **Customizable** colors and layouts
-
-### 🔗 **Easy Sharing**
-- **One simple link** for all your content
-- **Analytics** to track engagement
-- **Instant updates** - no app download needed
-
-### 🛡️ **Reliable & Secure**
-- 99.9% Uptime guarantee
-- Secure HTTPS encryption
-- Regular backups
+| ⚡ Lightning Fast | 🎨 Beautiful Design | 🔗 Easy Sharing | 🛡️ Reliable & Secure |
+|:-----------------|:-------------------|:---------------|:-------------------|
+| Create your link hub in **seconds** | **Professionally designed** templates | **One simple link** for all your content | 99.9% Uptime guarantee |
+| Intuitive drag-and-drop interface | **Mobile-optimized** for all devices | **Analytics** to track engagement | Secure HTTPS encryption |
+| No technical skills required | **Customizable** colors and layouts | **Instant updates** - no app download needed | Regular backups |
 
 ---
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-- Modern web browser
+### 📋 Prerequisites
+- **Node.js 18+** 
+- **npm or yarn**
+- **Modern web browser**
 
+### 🛠️ Installation
 
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/linktree.git
 
+# 2. Navigate to project directory
+cd linktree
+
+# 3. Install dependencies
+npm install
+
+# 4. Start development server
+npm run dev
